@@ -1,0 +1,36 @@
+ul{
+    background-color: skyblue;
+    width: fit-content;
+    float:right;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+#para{
+    background-color: slateblue;
+    width: fit-content;
+}
+input{
+    background-color: azure;
+    width: fit-content;
+}
+body{
+    background-image: url(SIGN\ IN.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input:hover{
+    background-color:violet;
+}
+p{
+    background-color:turquoise;
+    width: fit-content;
+}
+h1{
+    background-color: powderblue;
+    width: fit-content;
+}
+select{
+    background-color:slateblue;
+}

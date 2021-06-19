@@ -1,0 +1,20 @@
+body{
+    background-image: url(BIT.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+select:hover{
+    background-color:;
+    padding: 10px;
+}
+option:hover{
+    background-color:violet;
+}
+h1{
+    background-color: moccasin;
+    width: fit-content;
+}
+h2{
+    background-color: moccasin;
+    width: fit-content;
+}
